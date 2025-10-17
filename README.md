@@ -16,4 +16,4 @@ O dashboard utiliza dados inspirados na marca Coperni, conhecida por unir tecnol
 
 Imagem do dashboard:
 
-![Gráfico de Vendas](./dashboard/imgs/Captura%20de%20tela%202025-10-16%20222321.png)
+![Gráfico de Vendas](./dashboard/imgs/Captura%20de%20tela%202025-10-16%20230041.png)
