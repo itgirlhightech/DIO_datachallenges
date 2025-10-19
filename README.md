@@ -19,6 +19,7 @@ Imagem do dashboard:
 ![Gráfico de Vendas](./dashboard/imgs/Captura%20de%20tela%202025-10-16%20230041.png)
 
 
+
 Desafio Final do Bootcamp
 
 Criando um Dashboard do zero:
