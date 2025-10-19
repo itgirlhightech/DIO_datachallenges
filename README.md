@@ -17,3 +17,24 @@ O dashboard utiliza dados inspirados na marca Coperni, conhecida por unir tecnol
 Imagem do dashboard:
 
 ![Gráfico de Vendas](./dashboard/imgs/Captura%20de%20tela%202025-10-16%20230041.png)
+
+
+Desafio Final do Bootcamp
+
+Criando um Dashboard do zero:
+
+Para este desafio decidi optar por algo diferente, ao invés de trazer dados comuns de vendas decidi trazer dados relacionados às sitcoms famosas, com a obtenção dos dadados foi possível mesclar os dois arquivos e fazer um dashboard com base neles. O dashboard foca em métricas como: 
+- Sitcom;
+- Popularity;
+- Profit;
+- Revenue;
+- Awards Won;
+- Platform.
+
+Imagens do dashboard: 
+
+![Gráfico de sitcoms](./sitcomDashboard/img/Captura%20de%20tela%202025-10-19%20162003.png)
+
+![Gráfico de sitcoms](./sitcomDashboard/img/Captura%20de%20tela%202025-10-19%20162129.png)
+
+
